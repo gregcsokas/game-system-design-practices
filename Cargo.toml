@@ -5,7 +5,7 @@ edition = "2021"
 
 [workspace]
 members = [
-    "health_system"
+    "simple_health_system"
 ]
 
 [workspace.dependencies]
