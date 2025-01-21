@@ -1,0 +1,13 @@
+[package]
+name = "game-system-design-practices"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = [
+    "health_system"
+]
+
+[workspace.dependencies]
+bevy = { version = "0.15.1", features = [  "default", "wayland", ] }
+
