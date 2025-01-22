@@ -1,0 +1,6 @@
+[package]
+name = "simple_health_system_v2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
